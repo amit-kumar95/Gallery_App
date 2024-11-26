@@ -1,0 +1,21 @@
+.listItems {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-left: 0px;
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+.Thumbnail_btn {
+  border: none;
+  background-color: transparent;
+  margin-left: 0px;
+  margin-right: 10px;
+  padding-left: 0px;
+}
+
+.thumbnail_img {
+  margin-right: 0px;
+}
